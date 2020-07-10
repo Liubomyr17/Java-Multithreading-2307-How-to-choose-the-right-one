@@ -1,0 +1,9 @@
+2307 How to choose the right one
+In the main method, assign an instance of the TEST class to the Object obj.
+Do not change anything other than the main method.
+
+Requirements:
+1. There must be a TEST field in the Solution class.
+2. There must be a TEST class in the Solution class.
+3. The obj field must exist in the Solution class.
+4. In the main method, an object of type TEST (an instance of the class TEST) must be stored in the obj field.
